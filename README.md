@@ -5,3 +5,15 @@
 # Resource
 
 ![image](https://user-images.githubusercontent.com/72688889/182427044-33846845-e256-4619-a792-9888897f1617.png)
+
+# Portfolio
+
+![image](https://user-images.githubusercontent.com/72688889/182427316-74cc5d9f-b268-4e8c-abee-cd1634a0f4c0.png)
+
+# Contact Us
+
+![image](https://user-images.githubusercontent.com/72688889/182437874-e8e40f0c-7f3d-4877-87dd-5872303258e5.png)
+
+# Feedback
+
+![image](https://user-images.githubusercontent.com/72688889/182438045-bc262610-2e8f-4612-8932-16c71520d5b1.png)
